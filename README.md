@@ -2,7 +2,9 @@
 
 A technical assessment build: a **SaaS product landing page** and a **functional admin dashboard**, designed as one coherent product with a warm, editorial identity — deliberately crafted rather than templated.
 
-**Live demo:** _add after deploy_ · **Landing:** `/` · **Dashboard:** `/dashboard`
+**Live demo:** https://zen-saa-s.vercel.app · **Repo:** https://github.com/saady022/zen-SaaS
+
+**Landing:** [/](https://zen-saa-s.vercel.app) · **Dashboard:** [/dashboard](https://zen-saa-s.vercel.app/dashboard)
 
 ---
 
